@@ -1,20 +1,75 @@
 ---
 layout: default
+title: Servicios
 permalink: /services/
 ---
 
-## Full length services page
+# Servicios de desbroces en Pontevedra
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie eu turpis eu semper. Aliquam sed tempor ex. Curabitur pretium auctor tellus. Nulla vel nisl vulputate, ornare sem convallis, mollis eros. Pellentesque in lacus eros. Aliquam non turpis eu ex auctor varius eget vel orci. Aliquam pharetra leo sed risus mattis, at aliquet diam sagittis. Curabitur finibus malesuada ligula, sit amet fermentum ligula cursus nec. Praesent elit dolor, porttitor sit amet egestas a, aliquet sit amet velit. Cras ac dictum urna, at dictum nibh. Etiam ornare eleifend ultrices. Sed non condimentum urna. Sed lacinia ante quis nisl ultrices, nec tempor quam interdum. Duis sagittis fermentum nunc in tincidunt. Maecenas fringilla cursus laoreet.
+## Desbroces forestales en Pontevedra
 
-Etiam convallis purus a ornare facilisis. Sed sodales accumsan mauris, ut congue sapien pretium id. Duis viverra consectetur posuere. Integer feugiat nulla ac elit pretium gravida. Donec laoreet porttitor dolor nec accumsan. Maecenas fringilla felis sodales nisl mattis, id congue sem volutpat. Nam ut dolor a ante iaculis porttitor ultricies et nisl. Maecenas sed sapien ac turpis aliquam elementum. Aliquam at eleifend metus. Curabitur ut fermentum turpis. Nulla tempus rutrum purus, non bibendum ante vulputate at. Nulla vel viverra nulla. Duis libero risus, ultricies non rhoncus at, tristique id velit. Duis ac ex tortor. Curabitur dui metus, ornare eu ornare vel, scelerisque in augue. Aliquam eget consectetur justo, ac hendrerit lectus.
+En **Desbroces Pontevedra**, nos especializamos en todo tipo de desbroces forestales para mantener terrenos boscosos en óptimas condiciones. Nos encargamos de la limpieza de áreas, montes o fincas con vegetación densa, asegurando la protección contra incendios y promoviendo un crecimiento saludable del entorno natural, colaborando con entidades locales como el Concello de Pontevedra.
 
-Fusce ullamcorper nisl eros. Mauris sed urna mattis, mattis velit non, dignissim massa. Aenean maximus ligula sed diam tincidunt, sed tempor metus finibus. Morbi ut nisi id sapien viverra malesuada ut ut dui. Mauris ut mollis magna, viverra fermentum metus. Proin ac ipsum quis mauris interdum sagittis. Fusce id massa eu dolor pharetra efficitur a sed nisi. Quisque quis gravida purus. Morbi facilisis sapien et tellus convallis, eu mattis nisl volutpat. Aliquam quis vehicula leo. Phasellus posuere dui orci, eu luctus neque sollicitudin sit amet. Donec nunc massa, posuere quis leo eget, porta dapibus velit. Maecenas quis pulvinar orci.
+[📩 Pide tu presupuesto »](/contact/)
 
-Nunc varius sit amet ante id laoreet. Integer sapien nisl, accumsan dictum tempor eu, tempus at mi. Duis sit amet tellus elit. Aliquam tincidunt tellus eros, sed placerat ligula aliquam a. Morbi dapibus congue mauris, id dapibus lectus hendrerit at. Aliquam et porttitor metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent imperdiet elit eu libero facilisis, sit amet vulputate leo rhoncus.
+---
 
-Suspendisse accumsan ipsum nunc, sed fringilla metus hendrerit nec. Nulla gravida ante ac laoreet fermentum. Nunc aliquam nibh diam, id elementum urna convallis et. Duis mattis lacinia pharetra. Mauris ac lorem venenatis, ultricies nisl a, efficitur mauris. Etiam lacinia fermentum lectus, ac blandit nisi bibendum quis. Curabitur sit amet pharetra elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ut tincidunt nulla. Vivamus fermentum sapien semper ex convallis hendrerit. Sed id eleifend justo.
+## Desbroce y Limpieza de Fincas en Pontevedra
 
-Nunc quam sem, condimentum ut nibh vitae, facilisis laoreet ligula. Vestibulum ultrices sapien at nulla ullamcorper eleifend. Duis quam elit, pulvinar et aliquam a, porttitor sit amet sem. Suspendisse potenti. Maecenas et mollis enim. Morbi vel scelerisque felis. Maecenas ultrices sem eget neque suscipit, eget consequat magna efficitur.
+Realizamos desbroce y limpieza de fincas por toda la provincia. Atendemos tanto a particulares como a empresas para eliminar maleza, hierba y residuos, incluyendo recorte de setos. Garantizamos que tu terreno esté listo para su uso o conservación. Somos una empresa de referencia en desbroces de parcelas y fincas en Pontevedra.
 
-Vestibulum suscipit diam tortor, ut semper dolor elementum pulvinar. Curabitur vitae lacus ut augue viverra venenatis non non libero. Nullam vitae pharetra felis. Integer a turpis non libero posuere dictum eget id massa. Nulla ac lorem dictum, facilisis lectus a, pellentesque nisi. Phasellus sapien enim, rhoncus et mattis eu, facilisis sed est. Maecenas faucibus ultrices varius.
+[📩 Pide tu presupuesto »](/contact/)
+
+---
+
+## Poda de Árboles en Pontevedra
+
+Ofrecemos servicios de poda de árboles en toda la provincia. Nuestro equipo especializado realiza podas y mantenimiento respetando la salud de los árboles. También realizamos podas en altura, colaborando con la Diputación de Pontevedra y otros organismos.
+
+[📩 Pide tu presupuesto »](/contact/)
+
+---
+
+## Mantenimiento de Jardines
+
+Además de los desbroces, también nos encargamos del mantenimiento completo de jardines: siega de césped, poda de setos, limpieza general y conservación de áreas verdes. Trabajamos en parques, comunidades, fincas y jardines privados de Pontevedra.
+
+[📩 Pide tu presupuesto »](/contact/)
+
+---
+
+## Servicios de Jardinería en Pontevedra
+
+Transforma tu jardín con nuestros servicios profesionales. Limpieza, desbroce, preparación del terreno, poda y mantenimiento. Ideal para fincas, parcelas y jardines residenciales o comerciales. Usamos maquinaria moderna y técnica especializada.
+
+[📩 Pide tu presupuesto »](/contact/)
+
+---
+
+## ¿Por qué confiar en Desbroces en Pontevedra?
+
+Somos una empresa con experiencia en desbroces, poda, jardinería y limpieza de fincas. Contamos con maquinaria profesional (incluido tractor) y un equipo humano altamente cualificado. Realizamos un trabajo rápido, seguro y limpio.
+
+---
+
+## Trabajamos en toda la provincia de Pontevedra
+
+Atendemos clientes en:
+
+- Vigo  
+- Marín  
+- Vilagarcía de Arousa  
+- Lalín  
+- A Estrada  
+- Cambados  
+- Ponteareas  
+- Sanxenxo  
+- Redondela  
+- Tui  
+- O Grove  
+- Cangas  
+
+Si tu municipio no aparece, ¡pregunta sin compromiso!
+
+[📩 Pide tu presupuesto »](/contact/)
+

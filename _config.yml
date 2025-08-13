@@ -1,10 +1,10 @@
-title: Business Frontpage
-description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
+title: Desbroces Pontevedra
+description: Empresa especializada en desbroce de fincas, poda, jardinería y limpieza de terrenos en toda la provincia de Pontevedra.
 
 # disabled because we are using a custom domain
 #baseurl: /business-frontpage 
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "mediumseagreen" # puedes cambiar este color por cualquier HEX
 
 sass:
   sass_dir: /assets/css/_sass
@@ -15,3 +15,4 @@ include:
 
 exclude:
   - .sass-cache
+
